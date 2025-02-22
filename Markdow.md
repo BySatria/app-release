@@ -1,6 +1,6 @@
 # Information Code  
 
-Di bawah ini adalah contoh kode format yang ada di ChatGPT.  
+Di bawah ini adalah contoh kode format `Markdow` yang bisa digunakan di mana saja yang mendukung format `Markdow`. 
 
 ### Format Teks ChatGPT  
 
@@ -10,11 +10,17 @@ Di bawah ini adalah contoh kode format yang ada di ChatGPT.
 4. ***Tebal & Miring*** → `***Tebal & Miring***` → ***Tebal & Miring***  
 5. ~~Coret~~ → `~~Teks dicoret~~` → ~~Teks dicoret~~  
 6. `Kode` → `` `Kode` `` → `Kode`  
-7.￼Enter```
-  Kode
-  ```
-
-8. **Kutipan**  
+7. ```
+   Kode
+   ```
+   Ditulis dengan:
+   
+   ```
+       ```
+       Kode
+       ```
+   ```
+9. **Kutipan**  
 - `> Kutipan` →  
   > Kutipan  
 9. **Daftar Tak Berurutan (Bullet List)**  
@@ -34,8 +40,11 @@ Di bawah ini adalah contoh kode format yang ada di ChatGPT.
 12. **Tautan**  
  - `[Teks](https://example.com)` → [Teks](https://example.com)  
 13. **Gambar**  
- - `![Alt Text](https://example.com/image.jpg)`  
-14. **Mention/Penggunaan "@"** (Hanya berlaku di beberapa platform)  
+ - `![Alt Text](https://example.com/image.jpg)`  ↓
+
+    ![Error](https://exampe.com/image.jpg)
+
+14. **Mention/Penggunaan "@"** (Hanya berlaku di beberapa platform) @BySatria 
 15. **Emoji** (Bisa langsung diketik, misalnya: 😊🚀🔥)  
 16. **Tabel**  
  -  
@@ -45,12 +54,12 @@ Di bawah ini adalah contoh kode format yang ada di ChatGPT.
    | Data 1   | Data 2   | Data 3   |
    | Data 4   | Data 5   | Data 6   |
    ```
- - Hasilnya:  
+ - Contoh Hasilnya:
 
-   | Header 1 | Header 2 | Header 3 |
-   |----------|----------|----------|
-   | Data 1   | Data 2   | Data 3   |
-   | Data 4   | Data 5   | Data 6   |
+   | Name | Deskripsi | Links |
+   |------|-----------|-------|
+   | Free Fire | Permainan mudah | [Free Fire](https://freefire.com) |
+   | Boot | bot auto banned user | [Bot](https://bot.com) |
 
 17. **Subskrip & Superskrip**  
  - `H~2~O` → H~2~O  
@@ -66,15 +75,21 @@ Di bawah ini adalah contoh kode format yang ada di ChatGPT.
    ```python  
    print("Hello, World!")  
    ```  
-   ````  
+   ````
  - Hasilnya:  
-   ```python  
+   ```python
+   local Python
+   
    print("Hello, World!")  
-   ```  
+   ```
+
+   ```lua  
+   local Lua
+   
+   print("Hello Word')
+   ```
 20. **Blok Spoiler (Hanya di beberapa platform)**  
  - `||Teks disembunyikan||` → ⬛ Teks disembunyikan  
 
 Semoga semua kode format ini bermanfaat bagi Anda!  
-```  
 
-Sekarang formatnya sudah lebih rapi dan lebih mudah dibaca. Jika ada yang ingin ditambahkan lagi, beri tahu saya!
