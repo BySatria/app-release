@@ -15,11 +15,11 @@ Di bawah ini adalah contoh kode format `Markdow` yang bisa digunakan di mana saj
    ```
    Ditulis dengan:
    
-   ```
-       ```
-       Kode
-       ```
-   ```
+   ````
+    ```
+    Kode
+    ```
+   ````
 9. **Kutipan**  
 - `> Kutipan` →  
   > Kutipan  
@@ -75,6 +75,12 @@ Di bawah ini adalah contoh kode format `Markdow` yang bisa digunakan di mana saj
    ```python  
    print("Hello, World!")  
    ```  
+   ````
+ -  
+   ````
+   ```lua
+   print("Hello World")
+   ```
    ````
  - Hasilnya:  
    ```python
