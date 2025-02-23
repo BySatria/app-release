@@ -2,7 +2,7 @@
 
 
 ### Announcement  
-- **Notice:** `Andlua+` simple application update code, Without the Google Play Store.  
+- **Notice:** `AndLua+` simple application update code, Without the Google Play Store.  
 - **Application:** [AndLua+](https://AndLua+.com)  
 - **Author:** [@Felix](https://github.com/BySatria)  
 
