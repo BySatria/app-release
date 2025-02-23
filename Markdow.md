@@ -1,52 +1,52 @@
 # Information Code  
 
-Di bawah ini adalah contoh kode format `Markdow` yang bisa digunakan di mana saja yang mendukung format `Markdow`. 
+Below is an example of a `Markdown` format code that can be used anywhere that supports the `Markdow` format. 
 
-### Format Teks ChatGPT  
+### Text format 
 
-1. **Tebal** → `**Teks tebal**` → **Teks tebal**  
-2. *Miring* → `*Miring*` → *Miring*  
-3. _Miring_ → `_Miring_` → _Miring_  
-4. ***Tebal & Miring*** → `***Tebal & Miring***` → ***Tebal & Miring***  
-5. ~~Coret~~ → `~~Teks dicoret~~` → ~~Teks dicoret~~  
-6. `Kode` → `` `Kode` `` → `Kode`  
+1. **Thick** → `**Tax table**` → **Tax table**  
+2. *Crooked* → `*Crooked*` → *Crooked*  
+3. _Crooked_ → `_Crooked_` → _Crooked_  
+4. ***Thick & tilted*** → `***Thick & tilted***` → ***Thick & tilted***  
+5. ~~Cross out~~ → `~~Text crossed out~~` → ~~Text crossed out~~  
+6. `Code` → `` `Code` `` → `Code`  
 7. ```
-   Kode
+   Code
    ```
-   Ditulis dengan:
+   Written with:
    
    ````
     ```
-    Kode
+    Code
     ```
    ````
-9. **Kutipan**  
-- `> Kutipan` →  
-  > Kutipan  
-9. **Daftar Tak Berurutan (Bullet List)**  
+9. **Collection**  
+- `> Collection` →  
+  > Collection  
+9. **An Interesting List (Bullet List)**  
 - `- Item 1` →  
   - Item 1  
 - `- Item 2` →  
   - Item 2  
-10. **Daftar Berurutan (Numbered List)**  
+10. **Sequential list (Numbered list)**  
  - `1. Item 1` →  
    1. Item 1  
  - `2. Item 2` →  
    2. Item 2  
-11. **Garis Pemisah**  
- - `---` atau `***` →  
+11. **Dividing line**  
+ - `---` or `***` →  
    ---  
    ***  
-12. **Tautan**  
- - `[Teks](https://example.com)` → [Teks](https://example.com)  
-13. **Gambar**  
+12. **Link**  
+ - `[Teks](https://example.com)` → [Text](https://example.com)  
+13. **Picture**  
  - `![Alt Text](https://example.com/image.jpg)`  ↓
 
     ![Error](https://exampe.com/image.jpg)
 
-14. **Mention/Penggunaan "@"** (Hanya berlaku di beberapa platform) @BySatria 
-15. **Emoji** (Bisa langsung diketik, misalnya: 😊🚀🔥)  
-16. **Tabel**  
+14. **Mention/use "@"** (Only happened on some platforms) @BySatria 
+15. **Emoji** (Can be typed directly, for example: 😊🚀🔥)  
+16. **Table**  
  -  
    ```
    | Header 1 | Header 2 | Header 3 |
@@ -54,22 +54,22 @@ Di bawah ini adalah contoh kode format `Markdow` yang bisa digunakan di mana saj
    | Data 1   | Data 2   | Data 3   |
    | Data 4   | Data 5   | Data 6   |
    ```
- - Contoh Hasilnya:
+ - Example result:
 
-   | Name | Deskripsi | Links |
-   |------|-----------|-------|
-   | Free Fire | Permainan mudah | [Free Fire](https://freefire.com) |
-   | Boot | bot auto banned user | [Bot](https://bot.com) |
+   | Header 1 | Header 2 | Header 3 |
+   |----------|----------|----------|
+   | Data 1   | Data 2   | Data 3   |
+   | Data 4   | Data 5   | Data 6   |
 
-17. **Subskrip & Superskrip**  
+17. **SUBSCRIPT AND SUPERScript**  
  - `H~2~O` → H~2~O  
  - `E=mc^2^` → E=mc²  
-18. **Blok Catatan/Peringatan (Hanya di beberapa platform)**  
- - `> 📌 Catatan:`  
-   > 📌 Catatan: Ini adalah contoh blok catatan.  
- - `> ⚠️ Peringatan:`  
-   > ⚠️ Peringatan: Ini adalah contoh blok peringatan.  
-19. **Kode Blok Dengan Bahasa**  
+18. **Note/warning blocks (only on a few platforms)**  
+ - `> 📌 Notes:`  
+   > 📌 Note: this is an example of a block block.  
+ - `> ⚠️ Warning:`  
+   > ⚠️ Warning: This is an example of a warning block.  
+19. **Block code with language**  
  -  
    ````  
    ```python  
@@ -82,7 +82,7 @@ Di bawah ini adalah contoh kode format `Markdow` yang bisa digunakan di mana saj
    print("Hello World")
    ```
    ````
- - Hasilnya:  
+ - The result:  
    ```python
    local Python
    
@@ -94,8 +94,12 @@ Di bawah ini adalah contoh kode format `Markdow` yang bisa digunakan di mana saj
    
    print("Hello Word')
    ```
-20. **Blok Spoiler (Hanya di beberapa platform)**  
- - `||Teks disembunyikan||` → ⬛ Teks disembunyikan  
+20. **Spoiler blocks (only on a few platforms)**  
+ - `||The text is hidden||` → ⬛ The text is hidden  
 
-Semoga semua kode format ini bermanfaat bagi Anda!  
+Hopefully all this format code is useful for you!  
+
+---  
+
+&copy; 2024 Felix  
 
